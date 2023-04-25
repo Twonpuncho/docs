@@ -1,10 +1,10 @@
-name: Azure - Deploy Preview Environment
+name:hoangngoctrung - Deploy Preview Environment
 
 # **What it does**: Build and deploy an Azure preview environment for this PR
 # **Why we have it**: It's our preview environment deploy mechanism, to docs-internal and docs public repo
 # **Who does it impact**: All contributors.
 
-# !!!
+
 # ! This worflow has access to secrets, runs in the public repository, and clones untrusted user code.
 # ! Modify with extreme caution
 # !!!
